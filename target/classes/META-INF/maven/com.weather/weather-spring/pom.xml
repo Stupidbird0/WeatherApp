@@ -79,6 +79,23 @@
             <artifactId>lombok</artifactId>
             <optional>true</optional>
         </dependency>
+		<!-- Spring Cache Support -->
+		<dependency>
+		    <groupId>org.springframework.boot</groupId>
+		    <artifactId>spring-boot-starter-cache</artifactId>
+		</dependency>
+		
+		<!-- EhCache -->
+		<dependency>
+		    <groupId>org.ehcache</groupId>
+		    <artifactId>ehcache</artifactId>
+		</dependency>
+		
+		<!-- Spring Boot EhCache integration -->
+		<dependency>
+		    <groupId>org.springframework.boot</groupId>
+		    <artifactId>spring-boot-starter-cache</artifactId>
+		</dependency>
     </dependencies>
     
     <build>
