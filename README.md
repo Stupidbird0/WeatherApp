@@ -377,7 +377,7 @@ I contributi sono benvenuti! Segui questi passaggi per proporre una modifica:
    ```
 5. Apri una **Pull Request** descrivendo le modifiche apportate
 
-Per segnalare bug o richiedere nuove funzionalità, apri una [issue su GitHub](https://github.com/yourusername/weather-app/issues).
+Per segnalare bug o richiedere nuove funzionalità, apri una [issue su GitHub](https://github.com/FrancoRuss03/WeatherApp.git).
 
 ---
 
